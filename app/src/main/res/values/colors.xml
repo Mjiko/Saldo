@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Adaptive-icon background: the concept artwork's own edge color,
+         sampled from its corners, so the foreground's glow fades seamlessly. -->
+    <color name="ic_launcher_background">#14121A</color>
+</resources>
