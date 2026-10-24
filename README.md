@@ -61,7 +61,11 @@ signing.keyPassword=…
 
 ## Screenshots
 
-<!-- Add screenshots here: docs/screenshots/ -->
+<!-- Add screenshot<img width="478" height="974" alt="Screenshot 2026-10-24 115740" src="https://github.com/user-attachments/assets/f7323b89-6bf0-4820-a4f2-72f104b70624" />
+<img width="485" height="972" alt="Screenshot 2026-10-24 115732" src="https://github.com/user-attachments/assets/8b76e0cc-6578-46ad-a4c9-41795b05c4fd" />
+<img width="479" height="950" alt="Screenshot 2026-10-24 115723" src="https://github.com/user-attachments/assets/41caceb7-d938-400b-a1d4-039494f400cc" />
+<img width="482" height="969" alt="Screenshot 2026-10-24 115713" src="https://github.com/user-attachments/assets/ef0670dc-7fa7-4805-8ad1-0a2cdafd27a9" />
+s here: docs/screenshots/ -->
 
 ## License & credit
 
